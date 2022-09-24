@@ -15,4 +15,4 @@ Download and install Docker [Install Docker](https://docs.docker.com/get-docker/
   `docker -v` and `docker-compose -v` 
 - Then run `docker-compose up` from *the project root directory* to load the backend and frontend of the application
 - If Docker is working correctly, the backend should be running and able to connect to your local database. 
-- Head to [ http://localhost:3000/api/ping]( http://localhost:3000/api/ping) to test 
+- Head to [ http://localhost:3000/api/ping]( http://localhost:3000/api/ping) to test the connection
